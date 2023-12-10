@@ -1,0 +1,9 @@
+balance = 1000  # default balance
+all_game = 0
+win_game = 0
+lose_game = 0
+cell_count = 0  # don't edit
+history_count = 0  # don't edit
+rez = 0  # don't edit
+speed_roulette = 1  # value(>0 and <1)
+time_roulette = 5  # timer roulette
